@@ -1,5 +1,5 @@
 # Cost-Manager-App
-Cost Manager React web application.
+Cost Manager React web application that helps manage the user\'s expenses. Enables adding, editing, deleting, displaying the data, sorting and filtering.
 #
 https://almoglevi1.github.io/Cost-Manager-App/
 
